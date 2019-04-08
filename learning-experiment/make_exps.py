@@ -10,11 +10,12 @@ import logging
 import pickle
 from scipy.io import loadmat
 import numpy as np
-# Avoid trouble when generating pdf's on a distant server.
-# import matplotlib
-# matplotlib.use("pdf")
+# Avoid trouble when generating pdf's on a distant server:
+# import matplotlib
+# matplotlib.use("pdf")
 import matplotlib.pyplot as plt
 from matplotlib.ticker import NullFormatter
+
 import compute_stats as cs
 
 SEED_SHUFFLE = 42

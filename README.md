@@ -1,2 +1,10 @@
 # Trade-offs-in-Large-Scale-Distributed-Tuplewise-Estimation-and-Learning
-Code associated to the publication
+
+## About
+
+The contents of this repository cover the experiments described in the paper:
+
+Trade-offs in Large Scale Distributed Tuplewise Estimation and Learning. Robin Vogel, Aurélien Bellet, Stephan
+Clémençon, Ons Jelassi and Guillaume Papa.
+
+Two experiments are described in the paper, an estimation experiment and a learning experiment.
