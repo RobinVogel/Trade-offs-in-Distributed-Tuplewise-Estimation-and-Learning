@@ -1,4 +1,4 @@
-# Trade-offs-in-Large-Scale-Distributed-Tuplewise-Estimation-and-Learning
+# Trade-offs in Large Scale Distributed Tuplewise Estimation and Learning
 
 ## About
 
